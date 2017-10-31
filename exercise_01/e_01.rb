@@ -1,11 +1,31 @@
+#write a program that will read users input and correct his/her capitalization.
 
-# return the  string ("Hello, World!")  from greet method.
+#[Steps]:
 
-#return keyword is used to return something.
+  # print  "What is your first name?" to console.
 
-# If you don’t tell ruby what to return, it will always return the last expression in the method code block.
+  #save the response in a variable `first_name`.
 
-#write your code here.
+  #use capitalize method to correct his/her capitalization and print it to console as well.
+
+  #write your code here
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#[Bonus]:
+  # Similarly ask last_name, city_name and correct their capitilization and print to console.
 

@@ -1,5 +1,5 @@
 #specs here
-require 'e_02.rb'
+require 'e_02'
 
 describe "temperature conversion functions" do
 

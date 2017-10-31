@@ -4,7 +4,8 @@
 
 # If you don’t tell ruby what to return, it will always return the last expression in the method code block.
 
+def greet
 #write your code here.
-
+end
 
 

@@ -1,0 +1,6 @@
+#[Hint:e_01]
+
+#Usage of  capatilize method
+
+  "soMetHing".capitalize
+    => returns "Something"

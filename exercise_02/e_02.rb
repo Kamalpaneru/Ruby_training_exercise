@@ -1,6 +1,17 @@
-# write your code here
+# Daffy Duckify a users string replacing each 's' with 'th'.
 
-#write a method far_to_cel that takes a parameter temp and converts temp in fahrenheit to celsius.
+# Ask user to `Enter any string` and store it into a variable.
 
-#write a method cel_to_far  that takes a parameter and converts temp in celsius to fahrenheit.
+# Convert response into lowercase.
+
+#Use include? method to see if the response contains letter 's'.
+
+# If the string contains  letter 's' substitute it with 'th' using `gsub!`  method else print `Nothing to replace`.
+
+
+
+
+
+
+
 

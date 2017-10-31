@@ -1,3 +1,12 @@
-# Formula for temperature conversion
+#[Hint:e_02]
 
-(C-0)/100 = (F-32)/180
+#Usage of include? method
+
+  "something".include? ('s')
+    =>returns true
+
+#Usage of gsub! method
+
+  "something".gsub!( /s/, 'th' )
+  	=> substitutes  's' with 'th'
+

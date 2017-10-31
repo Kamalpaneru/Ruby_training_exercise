@@ -1,0 +1,9 @@
+# A 2-D array looks something like this [['Amit Chaudhary','Kamal Paneru'],[1,2,3],['a','b','c']]
+
+#Hash declaration syntax
+
+   hash = {
+                    Amit: 1,
+                    Kamal: 2,
+                    John: 3
+   }

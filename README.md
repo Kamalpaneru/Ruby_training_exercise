@@ -1,2 +1,2 @@
 # Ruby_training_exercise
-Training exercises for IT club members
+Training exercises for IT club members.

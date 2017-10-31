@@ -1,10 +1,22 @@
-# return the  string ("Hello, World!")  from greet method.
 
-#return keyword is used to return something.
+#  Iterate over Array and Hashes.
 
-# If you don’t tell ruby what to return, it will always return the last expression in the method code block.
+#Use `each` method to iterate and print it to console.
 
-#write your code here.
-
+#Write your code here
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#[Bonus:]
+# Try iterating over a 2-Dimensional Array.(First try on 1-D array.)

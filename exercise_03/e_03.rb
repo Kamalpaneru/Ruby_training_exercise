@@ -1,9 +1,9 @@
-
 #  Iterate over Array and Hashes.
 
 #Use `each` method to iterate and print it to console.
 
 #Write your code here
+
 
 
 

@@ -1,3 +1,5 @@
+#[Hint:e_03]
+
 # A 2-D array looks something like this [['Amit Chaudhary','Kamal Paneru'],[1,2,3],['a','b','c']]
 
 #Hash declaration syntax
@@ -7,3 +9,7 @@
                     Kamal: 2,
                     John: 3
    }
+
+  # Accessing hash value with key
+      hash[:Amit]
+        => returns 1

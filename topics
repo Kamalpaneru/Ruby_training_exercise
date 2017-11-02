@@ -1,0 +1,79 @@
+Topics to be covered
+
+General
+  1. Ruby Intrepreter[Talk about YARV ]
+  2. Static vs Dynamic typed languages.
+  3. A little about GC.
+
+
+[e_01]
+
+  1. print, puts,[%s method, string interpolation].
+
+  2. Save using gets.
+
+  3. Some built in methods of ruby
+      .reverse
+      .length
+      .capitalize
+      .upcase & .downcase
+
+[e_02]
+
+  1. Control flow in ruby(if/else, if/elsif/else, switch)
+
+  2. Loops
+
+
+[e_03]
+
+  1. Blocks
+
+  2. Yield
+
+  3. Array and Hashes
+
+  4. each method
+
+[e_04]
+
+  1. Methods
+
+  2. return
+
+[e_05]
+
+    1. concept of Fixnum, float
+
+[e_06]
+
+  1. Proc and lambda
+
+  2. Passing proc as block
+
+  3. Difference between them
+
+  Basic OOP concepts
+
+[e_07]
+
+  1. Class and Objects
+
+  2. Scope of variables
+
+  3.  public and private methods
+
+  4. Modules
+
+
+  Upload exercises to your github repo.[If possible]
+
+
+
+
+
+
+
+
+
+
